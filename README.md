@@ -10,7 +10,7 @@ cd ty_python_workshop
 ```
 python -m venv venv
 source venv/bin/activate
-pip install jupyter-lab
+pip install jupyterlab
 jupyter-lab
 ```
 
